@@ -1,0 +1,26 @@
+<resources>
+    <string name="numberOfingridients">Ingredient</string>
+    <string name="app_name">KithenHelper</string>
+    <string name="recipe_name">RecipeName</string>
+    <string name="add_ingredients">Add Ingredients</string>
+    <string name="ingredient_name">Name</string>
+    <string name="ingredient_weight">Weight</string>
+    <string name="ingredient_Amount">Amount</string>
+    <string name="ingredient_add">Add Ingredient</string>
+    <string name="recipe_add">Add Recipe</string>
+    <string name="recipe_add_name">Add Recipe Name</string>
+    <string name="ingridients">Ingredients</string>
+    <string name="recipeDescription">Recipe Description</string>
+    <string name="gram">Grams</string>
+    <string name="liter">Liter</string>
+    <string name="unit">Unit</string>
+    <string name="change">Change</string>
+    <string name="changeWant">Amount Wanted</string>
+    <string name="UnitOfMasure">Unit Of Masure</string>
+    <string name="flower">flower</string>
+    <string name="aountNewNUm">please wriight a number</string>
+    <string name="addTheRecipe">Recipe Add To List</string>
+    <string name="myRecipe">My Recipe</string>
+    <string name="everybodyRecipe">share Recipe</string>
+    <string name="deleteRecipe">Delete Recipe</string>
+</resources>

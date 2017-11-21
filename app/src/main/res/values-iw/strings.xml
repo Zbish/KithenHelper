@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="numberOfingridients">סה"כ מצרכים</string>
+    <string name="app_name">המתכונים של כולנו</string>
+    <string name="recipe_name">שם המתכון</string>
+    <string name="add_ingredients">הוסף מצרכים</string>
+    <string name="ingredient_name">שם:</string>
+    <string name="ingredient_weight">משקל</string>
+    <string name="ingredient_Amount">כמות</string>
+    <string name="ingredient_add">הוסף מצרך</string>
+    <string name="recipe_add">הוסף מתכון</string>
+    <string name="recipe_add_name">שם המתכון</string>
+    <string name="ingridients">מצרכים</string>
+    <string name="recipeDescription">תיאור המתכון</string>
+    <string name="gram">קילוגרם</string>
+    <string name="liter">ליטר</string>
+    <string name="unit">יחידות</string>
+    <string name="change">שנה כמות</string>
+    <string name="changeWant">כמות רצויה</string>
+    <string name="UnitOfMasure">יחידת מידה</string>
+    <string name="flower">קמח</string>
+    <string name="aountNewNUm">בבקשה לרשום מספר</string>
+    <string name="addTheRecipe">המתכון נוסף לרשימה</string>
+    <string name="myRecipe">המתכונים שלי</string>
+    <string name="everybodyRecipe">מתכונים משותפים</string>
+    <string name="deleteRecipe">מחק מתכון</string>
+</resources>

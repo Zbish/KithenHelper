@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="zbish.com.kithenhelper.ShowAllRecipe">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ListView
+        android:id="@+id/listrecipe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10.0sp"
+        >
+    </ListView>
+
+    <ImageButton
+        android:id="@+id/BTNADDrecipe"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="15dp"
+        android:layout_weight="1"
+        android:background="@drawable/oval_ripple2"
+        android:elevation="13dp"
+        android:scaleType="center"
+        android:src="@drawable/fab_plus"
+        android:stateListAnimator="@animator/fab_raise" />
+</RelativeLayout>
